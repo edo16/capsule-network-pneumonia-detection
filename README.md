@@ -1,5 +1,7 @@
 # Implementasi Capsule Network untuk Deteksi Pneumonia
 
+**Language:** Bahasa Indonesia | [English](./README_ENG.md)
+
 ## Deskripsi Proyek
 
 Proyek ini merupakan implementasi model Capsule Network (CapsNet) dengan fungsi aktivasi untuk klasifikasi citra X-ray dalam mendeteksi pneumonia.
